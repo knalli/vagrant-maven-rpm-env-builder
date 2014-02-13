@@ -1,0 +1,12 @@
+# IntelliJ
+.idea
+*.iml
+
+# Vagrant
+.vagrant
+
+# Output, artifacts
+target
+
+# Others
+package.box
